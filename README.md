@@ -7,7 +7,8 @@ Proyek ini bertujuan untuk melakukan pemetaan area persawahan, lebih tepatnya be
 Repositori ini memuat beberapa file yang menjadi representasi sebagian (*sample*) dari hasil pengerjaan, di antaranya:
 *   **`Digitasi.qgz`**: File *project* utama QGIS yang menyimpan ruang kerja pemetaan.
 *   **`Petak 1.shp`, `.dbf`, `.prj`, `.shx`**: Kesatuan data *shapefile* (vektor) yang memuat hasil digitasi petak sawah.
-*   **`Sugio_01.jpg` & `Sugio_01.kmz`**: File citra serta referensi spasial.
+*   **`Sugio_01.jpg`**: File citra area pemetaan.
+*   **`Sugio_01.kmz`**: File titik koordinat referensi untuk area proyek.
 *   **`Sugio_01_modified.tif.aux.xml`**: File *metadata* untuk citra raster TIFF.
 *   **`tile_img_0_1.png` & `tile_mask_0_1.png`**: Sampel hasil *dataset* citra dan *masking* (*defect*/target area) yang telah diekstrak.
 
